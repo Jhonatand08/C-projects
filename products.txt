@@ -1,0 +1,6 @@
+Leche,20,6.21
+Helado,5,10.9
+Papa,30,30.6
+Limon,18,3.2
+Canela,5,10.9
+Queso,6,20.3
